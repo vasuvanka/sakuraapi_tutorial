@@ -1,2 +1,4 @@
-# sakuraapi_tutorial
-sakuraapi tutorial
+# sakuraapi-test
+Scaffolding done with `@sakuraapi/cli`.
+
+For more information on SakuraApi, visit https://github.com/sakuraapi/api
